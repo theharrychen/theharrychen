@@ -1,5 +1,4 @@
 ### Hi there 👋
-💻 I’m currently interning at [Mikata Health](https://mikatahealth.com/) 🩺, a startup focussed on freeing up doctors to focus on care.
 
 🌱 I’m currently learning ReactJS, TypeScript, and other web technologies.
 
