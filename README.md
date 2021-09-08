@@ -1,4 +1,10 @@
-### Hi there 👋
+## 👋 Hi, I'm Harry!
+
+A 4th-year Computer Science and Economics student at UCalgary, who is passionate about solving problems through leveraging software.
+
+Currently, I am seeking software engineering internship opportunities for summer 2022.
+
+
 
 <!--
 **theharrychen/theharrychen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
