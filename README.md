@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Harry!
 
-A 4th-year Computer Science and Economics student at UCalgary, who is passionate about solving problems through leveraging software.
+A senior Computer Science and Economics student at UCalgary, who is passionate about solving problems through leveraging software.
 
-Incoming Software Engineer Intern @ Meta.
+Previously interned @ Meta (WhatsApp), Arolytics, & MikataHealth.
 
 
 <!--
