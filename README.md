@@ -2,7 +2,7 @@
 
 A senior Computer Science and Economics student at UCalgary, who is passionate about solving problems through leveraging software.
 
-Previously interned @ Meta (WhatsApp), Arolytics, & MikataHealth.
+Previously interned @ Facebook (WhatsApp), Arolytics, & MikataHealth.
 
 
 <!--
